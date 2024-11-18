@@ -1,0 +1,8 @@
+
+# files that will be untracked
+
+*.gitignore
+*.DS_Store
+*.txt
+
+ 

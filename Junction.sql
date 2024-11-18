@@ -1,0 +1,12 @@
+-- Insert data into JUNCTION
+INSERT INTO JUNCTION (CUSTOMER_ID, EXHIBIT_ID)
+VALUES
+(1, 134),
+(2, 221),
+(3, 787),
+(4, 333),
+(5, 531),
+(6, 225),
+(7, 331),
+(8, 280),
+(10, 401);
